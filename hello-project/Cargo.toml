@@ -1,0 +1,11 @@
+# Here we set the dependences, metainformation about the project and some compiler settings
+# In the Rust world packages are called Crates
+
+[package]
+name = "hello-project"
+version = "0.1.0"
+authors = ["henrique.teixeira <henrique.teixeira@locaweb.com.br>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.3"

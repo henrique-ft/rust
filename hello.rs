@@ -13,7 +13,6 @@
 // cargo <- pakage manager
 // rustup <- versions manager
 
-#[name]
 fn main() {
     println!("Hello World")
 }
