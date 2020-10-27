@@ -36,7 +36,7 @@ fn basic_data_types() -> () {
     // the number after u or i are the number of bits, and in rust we have 8, 16, 32, 64 and 128
 
     // special types of numbers: usize and isize, they are architecture independent "size" will be
-    // 32 bits in a 32 bits architecture or 64 bits in a 65 bits architecture
+    // 32 bits in a 32 bits architecture or 64 bits in a 64 bits architecture
 
     // FLOATS
     println!("FLOATS");
